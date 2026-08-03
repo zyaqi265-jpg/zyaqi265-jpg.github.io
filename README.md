@@ -1,0 +1,16 @@
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b0e0d" />
+    <meta name="description" content="张雅淇 - 医疗临床全流程项目管理，向产品经理进阶。" />
+    <title>张雅淇 | Clinical to Product</title>
+    <script type="module" crossorigin src="/assets/index-O_v-PTkn.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CQst2Y20.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
